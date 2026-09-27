@@ -1,0 +1,304 @@
+{
+ "Products": [
+  {
+   "Products": [
+    {
+     "Stockcode": 18160,
+     "Name": "Woolworths Pitted Dates",
+     "DisplayName": "Woolworths Pitted Dates 500g",
+     "UrlFriendlyName": "woolworths-pitted-dates",
+     "Price": 3,
+     "CupPrice": 6,
+     "CupMeasure": "1KG",
+     "PackageSize": "500g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 196979,
+     "Name": "Trident Pitted Dates Pitted",
+     "DisplayName": "Trident Pitted Dates 600g",
+     "UrlFriendlyName": "trident-pitted-dates-pitted",
+     "Price": 4,
+     "CupPrice": 6.67,
+     "CupMeasure": "1KG",
+     "PackageSize": "600g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 821562,
+     "Name": "Woolworths Soft & Juicy Pitted Dates",
+     "DisplayName": "Woolworths Soft & Juicy Pitted Dates 250g",
+     "UrlFriendlyName": "woolworths-soft-juicy-pitted-dates",
+     "Price": 5,
+     "CupPrice": 20,
+     "CupMeasure": "1KG",
+     "PackageSize": "250g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 205470,
+     "Name": "Angas Park Pitted Dates",
+     "DisplayName": "Angas Park Pitted Dates 500g",
+     "UrlFriendlyName": "angas-park-pitted-dates",
+     "Price": 6,
+     "CupPrice": 12,
+     "CupMeasure": "1KG",
+     "PackageSize": "500g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 670109,
+     "Name": "Snack Date Pitted Medjool Dates Snack",
+     "DisplayName": "Pitted Medjool Dates Snack 340g",
+     "UrlFriendlyName": "snack-date-pitted-medjool-dates-snack",
+     "Price": 10.9,
+     "CupPrice": 32.06,
+     "CupMeasure": "1KG",
+     "PackageSize": "340g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 133475,
+     "Name": "Macro Organic Dates",
+     "DisplayName": "Macro Organic Dates 500g",
+     "UrlFriendlyName": "macro-organic-dates",
+     "Price": 6,
+     "CupPrice": 12,
+     "CupMeasure": "1KG",
+     "PackageSize": "500g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 1125507911,
+     "Name": "Daily Essentials Organic Pitted Dates 250g",
+     "DisplayName": "Daily Essentials Organic Pitted Dates 250g",
+     "UrlFriendlyName": "daily-essentials-organic-pitted-dates-250g",
+     "Price": 6.56,
+     "CupPrice": 2.62,
+     "CupMeasure": "100G",
+     "PackageSize": "",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 219607,
+     "Name": "Woolworths Prunes Pitted",
+     "DisplayName": "Woolworths Prunes Pitted 500g",
+     "UrlFriendlyName": "woolworths-prunes-pitted",
+     "Price": 5.95,
+     "CupPrice": 11.9,
+     "CupMeasure": "1KG",
+     "PackageSize": "500g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 676617,
+     "Name": "Queen Diamond Dates Pitted",
+     "DisplayName": "Queen Diamond Dates Pitted 250g",
+     "UrlFriendlyName": "queen-diamond-dates-pitted",
+     "Price": 3.5,
+     "CupPrice": 14,
+     "CupMeasure": "1KG",
+     "PackageSize": "250g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 1116325539,
+     "Name": "Sunny Fruit Organic Pitted Dried Dates 1.36kg",
+     "DisplayName": "Sunny Fruit Organic Pitted Dried Dates 1.36kg",
+     "UrlFriendlyName": "sunny-fruit-organic-pitted-dried-dates-1-36kg",
+     "Price": 44.99,
+     "CupPrice": 3.98,
+     "CupMeasure": "100G",
+     "PackageSize": "1.13KG",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 1117919011,
+     "Name": "Natural Delights Organic Pitted Medjool Dates 680g",
+     "DisplayName": "Natural Delights Organic Pitted Medjool Dates 680g",
+     "UrlFriendlyName": "natural-delights-organic-pitted-medjool-dates-680g",
+     "Price": 68.6,
+     "CupPrice": 10.09,
+     "CupMeasure": "100G",
+     "PackageSize": "680G",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 1130193555,
+     "Name": "DGM Jujube Corer Seed Remover Fruit Pitter, Red, for Dates Hawthorns Cherries, Household Tool",
+     "DisplayName": "DGM Jujube Corer Seed Remover Fruit Pitter, Red, for Dates Hawthorns Cherries, Household Tool",
+     "UrlFriendlyName": "dgm-jujube-corer-seed-remover-fruit-pitter-red-for-dates-hawthorns-cherries-household-tool",
+     "Price": 22.77,
+     "CupPrice": null,
+     "CupMeasure": "",
+     "PackageSize": "",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 640777,
+     "Name": "Woolworths Pitted Kalamata Olives In Brine",
+     "DisplayName": "Woolworths Pitted Kalamata Olives In Brine 1.4kg",
+     "UrlFriendlyName": "woolworths-pitted-kalamata-olives-in-brine",
+     "Price": 12,
+     "CupPrice": 8.57,
+     "CupMeasure": "1KG",
+     "PackageSize": "1.4kg",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 64777,
+     "Name": "Tom & Luke Dark Chocolate Chewy Date Bar",
+     "DisplayName": "Tom & Luke Dark Chocolate Chewy Date Bar 80g",
+     "UrlFriendlyName": "tom-luke-dark-chocolate-chewy-date-bar",
+     "Price": 7,
+     "CupPrice": 8.75,
+     "CupMeasure": "100G",
+     "PackageSize": "80g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 484311,
+     "Name": "Always Fresh Black Olives Pitted",
+     "DisplayName": "Always Fresh Black Olives Pitted 220g",
+     "UrlFriendlyName": "always-fresh-black-olives-pitted",
+     "Price": 2.85,
+     "CupPrice": 12.95,
+     "CupMeasure": "1KG",
+     "PackageSize": "220g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 774695,
+     "Name": "Golden Palm Medjool Dates Punnet",
+     "DisplayName": "Medjool Dates Punnet 450g",
+     "UrlFriendlyName": "golden-palm-medjool-dates-punnet",
+     "Price": 13.5,
+     "CupPrice": 30,
+     "CupMeasure": "1KG",
+     "PackageSize": "450g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 690365,
+     "Name": "Woolworths Pitted Kalamata Olives",
+     "DisplayName": "Woolworths Pitted Kalamata Olives 345g",
+     "UrlFriendlyName": "woolworths-pitted-kalamata-olives",
+     "Price": 2.4,
+     "CupPrice": 6.96,
+     "CupMeasure": "1KG",
+     "PackageSize": "345g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 39758,
+     "Name": "Woolworths Pitted Kalamata Olives Garlic & Chilli",
+     "DisplayName": "Woolworths Pitted Kalamata Olives Garlic & Chilli 110g",
+     "UrlFriendlyName": "woolworths-pitted-kalamata-olives-garlic-chilli",
+     "Price": 3.75,
+     "CupPrice": 34.09,
+     "CupMeasure": "1KG",
+     "PackageSize": "110g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 318163,
+     "Name": "Macro Organic Dates Punnet",
+     "DisplayName": "Macro Organic Dates Punnet 200g",
+     "UrlFriendlyName": "macro-organic-dates-punnet",
+     "Price": 6.9,
+     "CupPrice": 34.5,
+     "CupMeasure": "1KG",
+     "PackageSize": "200g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 39122,
+     "Name": "Angas Park Australian Prunes Pitted",
+     "DisplayName": "Angas Park Australian Prunes Pitted 250g",
+     "UrlFriendlyName": "angas-park-australian-prunes-pitted",
+     "Price": 6.2,
+     "CupPrice": 24.8,
+     "CupMeasure": "1KG",
+     "PackageSize": "250g",
+     "IsAvailable": true
+    }
+   ]
+  }
+ ]
+}

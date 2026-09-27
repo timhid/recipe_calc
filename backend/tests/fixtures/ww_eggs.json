@@ -1,0 +1,304 @@
+{
+ "Products": [
+  {
+   "Products": [
+    {
+     "Stockcode": 77170,
+     "Name": "Sunny Queen 12 Pack Extra Large Free Range Eggs",
+     "DisplayName": "Sunny Queen 12 Pack Extra Large Free Range Eggs 700g",
+     "UrlFriendlyName": "sunny-queen-12-pack-extra-large-free-range-eggs",
+     "Price": 9.15,
+     "CupPrice": 1.31,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 165367,
+     "Name": "Woolworths 12 Pack Extra Large Cage Free Eggs",
+     "DisplayName": "Woolworths 12 Pack Extra Large Cage Free Eggs 700g",
+     "UrlFriendlyName": "woolworths-12-pack-extra-large-cage-free-eggs",
+     "Price": 5.7,
+     "CupPrice": 0.81,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 771237,
+     "Name": "Sunny Queen 18 Pack Large Free Range Eggs",
+     "DisplayName": "Sunny Queen 18 Pack Large Free Range Eggs 900g",
+     "UrlFriendlyName": "sunny-queen-18-pack-large-free-range-eggs",
+     "Price": 13.2,
+     "CupPrice": 1.47,
+     "CupMeasure": "100G",
+     "PackageSize": "900g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 700426,
+     "Name": "Woolworths 6 Pack Extra Large Free Range Eggs",
+     "DisplayName": "Woolworths 6 Pack Extra Large Free Range Eggs 350g",
+     "UrlFriendlyName": "woolworths-6-pack-extra-large-free-range-eggs",
+     "Price": 4.9,
+     "CupPrice": 1.4,
+     "CupMeasure": "100G",
+     "PackageSize": "350g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 224763,
+     "Name": "Woolworths 12 Pack X Large Free Range Eggs",
+     "DisplayName": "Woolworths 12 Pack X Large Free Range Eggs 700g",
+     "UrlFriendlyName": "woolworths-12-pack-x-large-free-range-eggs",
+     "Price": 6.7,
+     "CupPrice": 0.96,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 313900,
+     "Name": "Manning Valley 12 Pack Extra Large Free Range Eggs",
+     "DisplayName": "Manning Valley 12 Pack Extra Large Free Range Eggs 700g",
+     "UrlFriendlyName": "manning-valley-12-pack-extra-large-free-range-eggs",
+     "Price": 8.7,
+     "CupPrice": 1.24,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 6023057,
+     "Name": "Pace Farm 18 Pack For Everyone Large Barn Laid Eggs",
+     "DisplayName": "Pace Farm 18 Pack For Everyone Large Barn Laid Eggs 900g",
+     "UrlFriendlyName": "pace-farm-18-pack-for-everyone-large-barn-laid-eggs",
+     "Price": 9.5,
+     "CupPrice": 1.06,
+     "CupMeasure": "100G",
+     "PackageSize": "900g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 118213,
+     "Name": "Simply Eggs 12 Pack Extra Large Cage Free Eggs",
+     "DisplayName": "Simply Eggs 12 Pack Extra Large Cage Free Eggs 700g",
+     "UrlFriendlyName": "simply-eggs-12-pack-extra-large-cage-free-eggs",
+     "Price": 6.9,
+     "CupPrice": 0.99,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 191726,
+     "Name": "Macro 12 Pack Organic Large Free Range Eggs",
+     "DisplayName": "Macro 12 Pack Organic Large Free Range Eggs 600g",
+     "UrlFriendlyName": "macro-12-pack-organic-large-free-range-eggs",
+     "Price": 10.8,
+     "CupPrice": 1.8,
+     "CupMeasure": "100G",
+     "PackageSize": "600g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 203576,
+     "Name": "Yallamundi Farm 12 Pack Extra Large Pasture Raised Free Range Eggs",
+     "DisplayName": "Yallamundi Farm 12 Pack Extra Large Pasture Raised Free Range Eggs 700g",
+     "UrlFriendlyName": "yallamundi-farm-12-pack-extra-large-pasture-raised-free-range-eggs",
+     "Price": 11.3,
+     "CupPrice": 1.61,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 689556,
+     "Name": "Manning Valley 18 Pack Large Free Range Eggs",
+     "DisplayName": "Manning Valley 18 Pack Large Free Range Eggs 900g",
+     "UrlFriendlyName": "manning-valley-18-pack-large-free-range-eggs",
+     "Price": 12,
+     "CupPrice": 1.33,
+     "CupMeasure": "100G",
+     "PackageSize": "900g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 6023079,
+     "Name": "Pace Farm 12 Pack For Everyone Extra Large Free Range Eggs",
+     "DisplayName": "Pace Farm 12 Pack For Everyone Extra Large Free Range Eggs 700g",
+     "UrlFriendlyName": "pace-farm-12-pack-for-everyone-extra-large-free-range-eggs",
+     "Price": 7.75,
+     "CupPrice": 1.11,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 117784,
+     "Name": "Open Range 12 Pack Extra Large Free Range Eggs",
+     "DisplayName": "Open Range 12 Pack Extra Large Free Range Eggs 700g",
+     "UrlFriendlyName": "open-range-12-pack-extra-large-free-range-eggs",
+     "Price": 7.6,
+     "CupPrice": 1.09,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 140770,
+     "Name": "Sunny Queen 12 Pack Organic Extra Large Free Range Eggs",
+     "DisplayName": "Sunny Queen 12 Pack Organic Extra Large Free Range Eggs 700g",
+     "UrlFriendlyName": "sunny-queen-12-pack-organic-extra-large-free-range-eggs",
+     "Price": 13.3,
+     "CupPrice": 1.9,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 224762,
+     "Name": "Woolworths 12 Pack Large Free Range Eggs",
+     "DisplayName": "Woolworths 12 Pack Large Free Range Eggs 600g",
+     "UrlFriendlyName": "woolworths-12-pack-large-free-range-eggs",
+     "Price": 6.4,
+     "CupPrice": 1.07,
+     "CupMeasure": "100G",
+     "PackageSize": "600g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 363392,
+     "Name": "Manning Valley 12 Pack Jumbo Free Range Eggs",
+     "DisplayName": "Manning Valley 12 Pack Jumbo Free Range Eggs 800g",
+     "UrlFriendlyName": "manning-valley-12-pack-jumbo-free-range-eggs",
+     "Price": 9.9,
+     "CupPrice": 1.24,
+     "CupMeasure": "100G",
+     "PackageSize": "800g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 74593,
+     "Name": "Woolworths 18 Pack Large Cage Free Eggs",
+     "DisplayName": "Woolworths 18 Pack Large Cage Free Eggs 900g",
+     "UrlFriendlyName": "woolworths-18-pack-large-cage-free-eggs",
+     "Price": 8,
+     "CupPrice": 0.89,
+     "CupMeasure": "100G",
+     "PackageSize": "900g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 263708,
+     "Name": "Sunny Queen 30 Pack Extra Large Cage Free Eggs",
+     "DisplayName": "Sunny Queen 30 Pack Extra Large Cage Free Eggs 1.75kg",
+     "UrlFriendlyName": "sunny-queen-30-pack-extra-large-cage-free-eggs",
+     "Price": 18.15,
+     "CupPrice": 1.04,
+     "CupMeasure": "100G",
+     "PackageSize": "1.75kg",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 6023138,
+     "Name": "Pace Farm 18 Pack For Everyone Free Range Large Eggs",
+     "DisplayName": "Pace Farm 18 Pack For Everyone Free Range Large Eggs 900g",
+     "UrlFriendlyName": "pace-farm-18-pack-for-everyone-free-range-large-eggs",
+     "Price": 9.9,
+     "CupPrice": 1.1,
+     "CupMeasure": "100G",
+     "PackageSize": "900g",
+     "IsAvailable": true
+    }
+   ]
+  },
+  {
+   "Products": [
+    {
+     "Stockcode": 140588,
+     "Name": "Yallamundi Farm 12 Pack Organic Extra Large Eggs",
+     "DisplayName": "Yallamundi Farm 12 Pack Organic Extra Large Eggs 700g",
+     "UrlFriendlyName": "yallamundi-farm-12-pack-organic-extra-large-eggs",
+     "Price": 14.3,
+     "CupPrice": 2.04,
+     "CupMeasure": "100G",
+     "PackageSize": "700g",
+     "IsAvailable": true
+    }
+   ]
+  }
+ ]
+}

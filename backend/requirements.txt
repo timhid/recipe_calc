@@ -1,0 +1,5 @@
+flask>=3.0
+pypdfium2>=4.30
+requests>=2.31
+beautifulsoup4>=4.12
+pytest>=8.0

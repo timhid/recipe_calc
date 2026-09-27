@@ -25,3 +25,5 @@ at the bottom should be a total recipe cost which sums the total cost rows, the 
 
 this table is rendered to the user and for each ingredient in the table, the ingredient is a hyperlink which links to the product's page on the supermarket website.
 a "download table" button should also be visible after all required processing is completed, and when clicked the .csv file is downloaded.
+
+python with flask should be used for the backend, use next.js for the frontend. inform me of how the text processing will be done. ask me for any other decisions concerning the stack.
