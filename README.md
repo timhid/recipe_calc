@@ -1,9 +1,16 @@
 # Recipe Cost Calculator
 
-Upload a recipe PDF (printed from a recipe website) and get the cost of each ingredient at the cheapest
+Estimate the total and per serving cost of a recipe. Upload a recipe PDF (printed from a recipe website) and get the cost of each ingredient at the cheapest
 per-g/ml product from Aldi, falling back to Woolworths (because these are the closest to me), with a downloadable CSV. this should incur some karmic debt on the soul but damn is the future incredible.
 
-needs more testing with other recipe formats. tested using recipe from recipetineats.com. future features would probably include storage to save recipes and costs to the server, logging in/out to fetch them, probably would make this a more fully fledged recipe tracker/journal. 
+needs more testing with other recipe formats. also should add feature to add own ingredients outside of aldi/woolies. tested using recipe from recipetineats.com. future features would probably include storage to save recipes and costs to the server, logging in/out to fetch them, probably would make this a more fully fledged recipe tracker/journal. 
+
+KNOWN ISSUES: 
+- uses regex matching to scrape so when a recipe calls for "chicken thighs", won't find anything that isn't "chicken thigh fillets', must be pretty specific. Does not work well for things like meat or produce, e.g a recipe calling for 3 cloves of garlic, defaults to peeled garlic cloves rather than garlic per kg. Might want to look into using AI to match products with some % likelihood.
+- Needs more testing of edge cases, this doesn't work: "2 x 400g cans butter beans"
+- Nor does it like multiple ingredient options on the same line: "200 g cherry or grape tomatoes"
+- 
+
 
 - `backend/` — Flask API (Python 3.12): PDF text extraction, ingredient parsing, supermarket scraping, pricing
 - `frontend/` — Next.js (TypeScript, Tailwind): upload → review ingredients → cost table + CSV download
